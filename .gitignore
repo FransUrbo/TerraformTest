@@ -1,0 +1,6 @@
+.terraform*
+s3-cleanup.zip
+.*~
+*~
+_src/v-env
+_src/build
